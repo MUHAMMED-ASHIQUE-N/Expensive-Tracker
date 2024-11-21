@@ -82,9 +82,14 @@ label {
 }
 
 header {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
 	text-align: center;
 	color: #f7f9fd;
 }
+
 
 header h1 {
 	margin: 5% 0 0 0;
@@ -379,6 +384,10 @@ footer p {
 
 	}
 
+	.container-on {
+		width: min(90%, 70.5rem);
+		margin-inline: auto;
+	}
 	.head-text h1 {
 		font-size: 35px;
 	}
