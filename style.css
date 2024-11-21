@@ -82,9 +82,9 @@ label {
 }
 
 header {
-	<<<<<<< HEAD height: 90vh;
+	height: 90vh;
 	width: 100%;
-	=======>>>>>>>9ccaaf5694b188ca14f62f75b70fd9a21f2fbbab display: flex;
+	display: flex;
 	flex-direction: column;
 	align-items: center;
 	justify-content: center;
@@ -92,6 +92,7 @@ header {
 	color: #f7f9fd;
 
 }
+
 
 
 header h1 {
